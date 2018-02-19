@@ -1,5 +1,7 @@
 # elm-webpack-starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/elm-webpack-starter.svg)](https://greenkeeper.io/)
+
 A simple Webpack setup for writing [Elm](http://elm-lang.org/) apps:
 
 * Dev server with live reloading, HMR
